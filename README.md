@@ -3,7 +3,7 @@ Hi, I’m Kalyan.<br><br>Backend-focused full-stack developer.<br>I build deploy
 - 📧 Email: kalyandakkili2@gmail.com  
 - 💼 LinkedIn: https://www.linkedin.com/in/kalyan-dakkili-946386268/  
 - 🧑‍💻 GitHub: https://github.com/kalyanDakkili  
-- 🌍 Portfolio: https://kalyandakkili.github.io/Kalyan-portfolio/
+- 🌍 Portfolio: https://kalyandakkili.github.io/Kalyan-portfolio-updated-version/
 
 
 ## 🌐 Socials:
